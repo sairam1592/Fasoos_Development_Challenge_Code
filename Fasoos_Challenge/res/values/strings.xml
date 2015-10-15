@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fasoos App</string>
+    <string name="action_settings">Settings</string>
+    <string name="details_tab">Food DetailS Section</string>
+    <string name="item_list">Food Items Section</string>
+    <string name="label_item_list">FASOOS ITEM LIST</string>
+    <string name="button_fetch">Fetch List</string>
+    <string name="label_menu_item">Menu Item:</string>
+    <string name="button_enter">Enter</string>
+    <string name="button_back">Back</string>
+    <string name="label_welcome">Welcome to Faasos food App</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_spicemeter">Spice Meter:</string>
+    <string name="label_isveg">Is Veg:</string>
+    <string name="label_price">Price:</string>
+    <string name="label_name">Name:</string>
+    <string name="label_desc">Description:</string>
+    <string name="label_category">Category:</string>
+    <string name="label_heading">Please find the details of the selected item:</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+</resources>
