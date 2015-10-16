@@ -7,6 +7,8 @@ import android.view.View.OnClickListener;
 import android.content.Intent;
 import android.widget.Button;
 
+//Main Activity
+
 public class First_Activity extends Activity {
 
 	Intent intent;
